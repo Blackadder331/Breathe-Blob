@@ -6,7 +6,7 @@ function fadeIn() {
 function countingTimer() {
   let count = 0;
   let maxCount = 4;
-  let messages = ['inhale', 'hold breathe', 'exhale'];
+  let messages = ['inhale', 'hold breath', 'exhale'];
   let messageIndex = 0;
 
   setInterval(function() {
